@@ -1,0 +1,78 @@
+body{
+    background-image: url("https://image.shutterstock.com/image-illustration/gym-weights-under-strong-dramatic-260nw-472696720.jpg");
+background-repeat: no-repeat;
+background-size: cover;}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+     
+}
+.b{
+    color:rgb(247, 16, 123);
+    font-size: larger;
+    margin: 22px;
+    
+}
+.data{
+    margin: 20px;
+}
+
+
+/* image{
+    width: 50px;
+
+} */
+.container{
+color: white;  
+text-align: center;
+}
+.list{
+    display:flex;
+    text-align: center;
+}
+.list li{
+    list-style: none;
+    margin:0 12px;
+    padding: 5px;
+    cursor: pointer;
+}
+.para{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+    background-color: rgb(247, 16, 123);
+    border-color: black;
+    border-radius: 12px;
+    color: white;
+    padding: 4px;
+    
+}
+
+.Info{
+    margin: 11px;
+    padding: 25px;
+}
+.info{
+    color: white ;
+}
+.detail{
+    color: white;
+    
+}
+.list2{
+    list-style: none;
+    color: white;
+    display: flex;
+   
+    padding: 5px;
+}
+.list2 li{
+    margin: 0 12px;
+}
+.foot{
+    margin: 34px;
+    padding: 15px;
+    color: white;
+}
